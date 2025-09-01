@@ -11,7 +11,7 @@ Welcome to the source code of my personal portfolio website. This project is my 
 
 ## 🚀 Live Demo
 
-You can view the live version of the portfolio here: **[fairuzaghnamulya.my.id](https://fairuzaghnamulya.my.id)**
+You can view the live version of the portfolio here: **[fairuzaghnamulya-id.github.io/cv-fairuzaghnamulya/]([https://fairuzaghnamulya.my.id](https://fairuzaghnamulya-id.github.io/cv-fairuzaghnamulya/))**
 
 ---
 
